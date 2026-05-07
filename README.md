@@ -19,3 +19,5 @@ Performed advanced network reconnaissance and enumeration using Nmap against pub
 ### Host Discovery
 ```bash
 nmap -sn target.com
+## Author
+Raju Lama
